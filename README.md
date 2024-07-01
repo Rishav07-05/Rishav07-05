@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 😉</h1>
+<h1 align="center">hey there , Myself Rishav ⚔️</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm from Jharkhand<br><br>-  📚 I'm currently studying at Lovely Professional University<br>- ⚡ In my free time I drink tea</p>
+<p align="left">I'm from Jharkhand<br><br>-  📚 I'm currently persuing my B.tech from Lovely Professional University<br>- ⚡ In my free time I drink tea</p>
 
 ###
 
