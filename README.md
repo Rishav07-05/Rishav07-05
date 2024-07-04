@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bixl007/bixl007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Rishav07-05/Rishav07-05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <h3 align="left">Add me up here:</h3> 
