@@ -15,13 +15,6 @@
 <br><br> </p>
 
 
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rishav07-05/Rishav07-05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 <h3 align="left">Add me up here:</h3> 
 <p align="left">
 <a href="https://x.com/Rishav_050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rishav_050" height="30" width="40" /></a>
