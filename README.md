@@ -11,7 +11,7 @@
 - 😉 How to reach me **rishavkumar18902@gmail.com**
 <br> <br>
 
-<p align="center"><img src=https://media1.tenor.com/m/xuyYO3tFM78AAAAC/guts-guts-purple.gif" width="500" align="center">
+<p align="center"><img src="https://media1.tenor.com/m/Rlc4Tdfd4QIAAAAd/griffith-berserk-sacrifice.gif" width="500" align="center">
 <br><br> </p>
 
 
