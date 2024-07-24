@@ -6,7 +6,7 @@
 
 
 
-- 👾 I’m currently learning **Javascript and DSA in C++**
+- 👾 I’m currently learning **React and DSA in C++**
 - 🧠 Ask me about **Python and C++**
 - 😉 How to reach me **rishavkumar18902@gmail.com**
 <br> <br>
