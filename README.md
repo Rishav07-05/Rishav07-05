@@ -32,7 +32,7 @@
 ``` Rust
 
 fn main() {
-    println!("They don't have the guts !!!");
+    println!("They don't have the guts !!!!");
 }
 
 ```
