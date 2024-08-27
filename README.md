@@ -2,7 +2,7 @@
 
    
 
-<p align="center">Passionate developer with expertise in C++, Python, and many more emerging technologies...</p>
+<p align="center">Passionate developer with expertise in C++, Python, and many more emerging technologies.</p>
 
 
 
