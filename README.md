@@ -11,7 +11,7 @@
 - 😉 How to reach me **rishavkumar18902@gmail.com**
 <br> <br>
 
-<p align="center"><img src="https://imgs.search.brave.com/6-mNe5dq2WgFzV-KtvJ0GkS5asUvH2JLWMqugL_vO0A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9iZXN0/YW5pbWF0aW9ucy5j/b20vbWVkaWEvY29t/cHV0ZXJzLzg3NTgw/NTkxM2Z1bm55LWNv/bXB1dGVyLWFuaW1h/dGVkLWdpZi0xMS5n/aWY.gif" width="500" align="center">
+<p align="center"><img src="https://imgs.search.brave.com/6-mNe5dq2WgFzV-KtvJ0GkS5asUvH2JLWMqugL_vO0A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9iZXN0/YW5pbWF0aW9ucy5j/b20vbWVkaWEvY29t/cHV0ZXJzLzg3NTgw/NTkxM2Z1bm55LWNv/bXB1dGVyLWFuaW1h/dGVkLWdpZi0xMS5n/aWY.gif" width="350" align="center">
 <br><br> </p>
 
 
