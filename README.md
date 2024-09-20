@@ -6,8 +6,8 @@
 
 
 
-- 👾 I’m currently learning **React and DSA in C++**
-- 🧠 Ask me about **Python and C++**
+- 👾 I’m currently learning **Backend and DSA in C++**
+- 🧠 Ask me about **C and C++**
 - 😉 How to reach me **rishavkumar18902@gmail.com**
 <br> <br>
 
