@@ -2,12 +2,12 @@
 
 <p align="center">Passionate developer with expertise in C++, Python, and many more emerging technologies.</p>
 
-- 👾 I’m currently learning **Backend and DSA in C++**
+- 👾 I’m currently learning **Backend and JAVA**
 - 🧠 Ask me about **C and C++**
 - 😉 How to reach me **rishavkumar18902@gmail.com**
 <br> <br>
 
-<p align="center"><img src="https://imgs.search.brave.com/6-mNe5dq2WgFzV-KtvJ0GkS5asUvH2JLWMqugL_vO0A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9iZXN0/YW5pbWF0aW9ucy5j/b20vbWVkaWEvY29t/cHV0ZXJzLzg3NTgw/NTkxM2Z1bm55LWNv/bXB1dGVyLWFuaW1h/dGVkLWdpZi0xMS5n/aWY.gif" width="350" align="center">
+<p align="center"><img src="https://i.giphy.com/0Wzkc9iirQ4ZI7JoaD.webp" width="350" align="center">
 <br><br> </p>
 
 
